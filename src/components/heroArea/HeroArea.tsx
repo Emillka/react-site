@@ -36,11 +36,11 @@ const HeroArea: React.FC<Props> = ({ type }) => {
           slidesPerView={1}
           loop={true}
           speed={1500}
-          autoplay={{ delay: 3000, disableOnInteraction: false }}
+          autoplay={{ delay: 5000, disableOnInteraction: false }}
           id="home-1"
           className="homepage-slides"
         >
-          {(type ? banner.slice(0, 2) : banner.slice(2)).map((item) => (
+          {(type ? banner.slice(0, 4) : banner.slice(4)).map((item) => (
             <SwiperSlide key={item.id} className="single-slide-item">
               <div
                 className="image-layer"
