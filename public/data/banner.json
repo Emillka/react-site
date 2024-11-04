@@ -2,7 +2,7 @@
   "banner": [
     {
       "id": "b1",
-      "img": "/assets/img/slider/betoniarnia3.jpg",
+      "img": "/assets/img/slider/betoniarnia1.png",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -16,7 +16,7 @@
     {
 
       "id": "b2",
-      "img": "/assets/img/slider/betoniarnia4.jpg",
+      "img": "/assets/img/slider/betoniarnia2.png",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -29,20 +29,7 @@
     },
     {
       "id": "b3",
-      "img": "/assets/img/slider/betoniarnia5.png",
-      "heading": "We provide best satisfied work",
-      "motive": {
-        "m1": "We turn vision",
-        "m2": "Factory Solutions"
-      },
-      "title": {
-        "t1": "Industrial Revolution, in modern history, the process of change from an agrarian",
-        "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
-      }
-    },
-    {
-      "id": "b4",
-      "img": "/assets/img/slider/betoniarnia6.png",
+      "img": "/assets/img/slider/betoniarnia3.png",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -53,5 +40,6 @@
         "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
       }
     }
+    
   ]
 }
