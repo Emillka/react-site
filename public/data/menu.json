@@ -2,7 +2,7 @@
   "menu": [
     {
       "id": "m1",
-      "text": "Home",
+      "text": "Strona Główna",
       "link": "#",
       "dropdown": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "m2",
-      "text": "Pages",
+      "text": "Usługi",
       "link": "#",
       "dropdown": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "id": "m3",
-      "text": "Services",
+      "text": "O nas",
       "link": "#",
       "dropdown": []
     },
@@ -74,7 +74,7 @@
     },
     {
       "id": "m5",
-      "text": "Blogs",
+      "text": "Wypożyczalnia sprzętu",
       "link": "#",
       "dropdown": [
         {
@@ -91,7 +91,7 @@
     },
     {
       "id": "m6",
-      "text": "Contact Us",
+      "text": "Kontakt",
       "link": "/contact",
       "dropdown": []
     }
