@@ -21,23 +21,16 @@ const About1: React.FC = () => {
             <div className="info-content-area">
               <div className="section-title">
                 <h6>O firmie</h6>
-                <h2>Bla bla</h2>
+                <h2> Kilka słów o nas</h2>
               </div>
               <p className="highlight">
-                Industrify is a leading international infrastructure group. They
-                finance, develop, build and maintain innovative and efficient
-                infrastructure that underpins daily life.
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
               </p>
               <br />
-              <p>
-                It provides infrastructure consultancy, facilities management,
-                property management, energy and healthcare services.The key
-                sectors served include education, health and defence.
-                <br />
-              </p>
+            
               <div className="about-btn mt-40">
                 <Link to="/about" className="main-btn">
-                  About More
+                  Więcej
                 </Link>
               </div>
             </div>

@@ -4,43 +4,43 @@
       "id": "s1",
       "img": "/assets/img/service/1.jpg",
       "icon": "flaticon-oil-industry",
-      "heading": "Petrolieum Refinery",
-      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+      "heading": "Roboty drogowe",
+      "title": "Budową dróg i autostrad"
     },
     {
       "id": "s2",
       "img": "/assets/img/service/2.jpg",
       "icon": "flaticon-lab-tool",
-      "heading": "Chemical Research",
-      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+      "heading": "Roboty ziemne",
+      "title": "Głównie wykopy i nasypy"
     },
     {
       "id": "s3",
       "img": "/assets/img/service/3.jpg",
       "icon": "flaticon-eco-factory",
-      "heading": "Industrial Ecology",
-      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+      "heading": "Budowa mostów i tuneli",
+      "title": "Tu coś dodać"
     },
     {
       "id": "s4",
       "img": "/assets/img/service/4.jpg",
       "icon": "flaticon-production",
-      "heading": "Construction Industry",
-      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+      "heading": "Roboty budowlane",
+      "title": "Wznoszenie budynków mieszkalnych i niemieszkalnych"
     },
     {
       "id": "s5",
       "img": "/assets/img/service/5.jpg",
       "icon": "flaticon-crane",
-      "heading": "Civil Engineering",
-      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+      "heading": "Wypożyczanie sprzętu ",
+      "title": "Tu coś dodać"
     },
     {
       "id": "s6",
       "img": "/assets/img/service/6.jpg",
       "icon": "flaticon-drilling-machine",
-      "heading": "Mechanical Engineering",
-      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+      "heading": "Rozbiórka i wyburzenia obiektów budowlanych",
+      "title": "Tu coś dodać"
     }
   ]
 }
