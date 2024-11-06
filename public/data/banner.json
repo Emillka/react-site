@@ -2,7 +2,7 @@
   "banner": [
     {
       "id": "b1",
-      "img": "/assets/img/slider/1a.jpeg",
+      "img": "/assets/img/slider/1b.png",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -15,7 +15,7 @@
     },
     {
       "id": "b3",
-      "img": "/assets/img/slider/2a.jpeg",
+      "img": "/assets/img/slider/2b.jpeg",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -28,7 +28,7 @@
     },
     {
       "id": "b3",
-      "img": "/assets/img/slider/3a.jpeg",
+      "img": "/assets/img/slider/3b.jpeg",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -41,7 +41,7 @@
     },
     {
       "id": "b3",
-      "img": "/assets/img/slider/4a.jpeg",
+      "img": "/assets/img/slider/4b.jpeg",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
