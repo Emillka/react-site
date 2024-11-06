@@ -2,35 +2,35 @@
   "projects": [
     {
       "id": "p1",
-      "title": "Welding Processing"
+      "title": "Grafika1 - może jakiś beton"
     },
     {
       "id": "p2",
-      "title": "Bridge Construction"
+      "title": "Grafika2 - sprzęt"
     },
     {
       "id": "p3",
-      "title": "Oil & Gas Productions"
+      "title": "Grafika3- coś tam"
     },
     {
       "id": "p4",
-      "title": "Civil Engineering"
+      "title": "Grafika4 -coś tam"
     },
     {
       "id": "p5",
-      "title": "Welding Processing"
+      "title": "Grafika5- coś tam"
     },
     {
       "id": "p6",
-      "title": "Bridge Construction"
+      "title": "Grafika6- coś tam"
     },
     {
       "id": "p7",
-      "title": "Oil & Gas Productions"
+      "title": "Grafika7- coś tam"
     },
     {
       "id": "p8",
-      "title": "Civil Engineering"
+      "title": "Grafika8- coś tam"
     }
   ]
 }
