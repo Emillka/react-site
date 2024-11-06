@@ -8,9 +8,6 @@ import {
   Team,
   Services,
   ProjectDetails,
-  Blog,
-  BlogDetails,
-  FAQ,
   Pricing,
 } from "../pages";
 import { ErrorPage } from "../components";
@@ -47,11 +44,6 @@ export const router = createBrowserRouter([
         errorElement: <ErrorPage />,
       },
       {
-        path: "/faq",
-        element: <FAQ />,
-        errorElement: <ErrorPage />,
-      },
-      {
         path: "/pricing",
         element: <Pricing />,
         errorElement: <ErrorPage />,
@@ -70,17 +62,7 @@ export const router = createBrowserRouter([
         path: "/project/:id",
         element: <ProjectDetails />,
         errorElement: <ErrorPage />,
-      },
-      {
-        path: "/blogs",
-        element: <Blog />,
-        errorElement: <ErrorPage />,
-      },
-      {
-        path: "/blog/:id",
-        element: <BlogDetails />,
-        errorElement: <ErrorPage />,
-      },
+      }
     ],
   },
   {

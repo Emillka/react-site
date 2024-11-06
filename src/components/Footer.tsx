@@ -12,12 +12,12 @@ const Footer: React.FC = () => {
                 <img src="/assets/img/logo-white.png" alt="industrify-logo" />
               </a>
               <p>
-                Consectetur adipisicing elit. <br />
-                maxime dolor voluptatibus natus eligendi
+                Coś napisać zachęcającego<br />
+                Lorem ipsum
               </p>
             </div>
             <div className="col-lg-2 col-md-6">
-              <h5>Office</h5>
+              <h5>Siedziba firmy</h5>
               <p>
                 Garwolin <br />
                 aleja Legionów 19, 08-400 Garwolin
@@ -30,14 +30,12 @@ const Footer: React.FC = () => {
               </div>
             </div>
             <div className="col-lg-2 offset-lg-1 col-md-6 com-sm-12">
-              <h5>Links</h5>
+              <h5>Przydatne linki</h5>
               <ul>
                 <li>
-                  <Link to="/about">About</Link>
-                  <Link to="/services">Services</Link>
-                  <Link to="/projects">Projects</Link>
-                  <Link to="/pricing">Pricing</Link>
-                  <Link to="/faq"> FAQ</Link>
+                  <Link to="/about">O nas</Link>
+                  <Link to="/services">Usługi</Link>
+                  <Link to="/projects">Wypożyczalnia sprzętu</Link>
                 </li>
               </ul>
             </div>
@@ -49,15 +47,7 @@ const Footer: React.FC = () => {
                     <a href="#">
                       <i className="lab la-facebook-f"></i>Facebook
                     </a>
-                    <a href="#">
-                      <i className="lab la-instagram"></i>Instagram
-                    </a>
-                    <a href="#">
-                      <i className="lab la-twitter"></i>Twitter
-                    </a>
-                    <a href="#">
-                      <i className="la la-skype"></i>Skype
-                    </a>
+                    
                   </div>
                 </li>
               </ul>

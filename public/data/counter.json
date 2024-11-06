@@ -2,22 +2,22 @@
   "counter": [
     {
       "id": "c1",
-      "job": "Project",
+      "job": "Realizacji",
       "done": 85
     },
     {
       "id": "c2",
-      "job": "Employee",
-      "done": 45
-    },
-    {
-      "id": "c3",
-      "job": "Customers",
+      "job": "Pracowników",
       "done": 10
     },
     {
+      "id": "c3",
+      "job": "Klientów",
+      "done": 100
+    },
+    {
       "id": "c4",
-      "job": "Solutions",
+      "job": "Coś jeszcze",
       "done": 14
     }
   ]
