@@ -32,7 +32,7 @@ const Testimonial1: React.FC = () => {
                   <h6>Testimonial</h6>
                   <h2>
                     Happy <b> Client </b>Says <br />
-                    About Us
+                    O nas
                   </h2>
                 </div>
               </div>

@@ -2,20 +2,20 @@
   "promo": [
     {
       "id": "p1",
-      "heading": "Industrial Solution",
-      "title": "Industry is main lorem ipsum dolor amet, consectetur adipisicing elit.",
+      "heading": "Roboty drogowe oraz ziemne",
+      "title": "Bla bla",
       "icon": "flaticon-factory"
     },
     {
       "id": "p2",
-      "heading": "Eco Development",
-      "title": "Industry is main lorem ipsum dolor amet, consectetur adipisicing elit.",
+      "heading": "Budowa mostów i tuneli",
+      "title": "Bla bla.",
       "icon": "flaticon-cogwheel"
     },
     {
       "id": "p3",
-      "heading": "Modern Technology",
-      "title": "Industry is main lorem ipsum dolor amet, consectetur adipisicing elit.",
+      "heading": "Wypożyczenie sprzętu",
+      "title": "Bla bla.",
       "icon": "flaticon-maintenance"
     }
   ]

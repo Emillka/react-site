@@ -24,7 +24,7 @@ const About2: React.FC = () => {
             >
               <div className="about-content-area">
                 <div className="section-title">
-                  <h6>About Us</h6>
+                  <h6>O nas</h6>
                   <h2>
                     We're leading <b>Industrial Solution</b> in Worldwide
                   </h2>

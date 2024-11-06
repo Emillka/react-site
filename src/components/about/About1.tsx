@@ -20,8 +20,8 @@ const About1: React.FC = () => {
           >
             <div className="info-content-area">
               <div className="section-title">
-                <h6>Welcome to Industrify</h6>
-                <h2>Great Experience for Industrial Solutions</h2>
+                <h6>O firmie</h6>
+                <h2>Bla bla</h2>
               </div>
               <p className="highlight">
                 Industrify is a leading international infrastructure group. They

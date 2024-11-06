@@ -26,7 +26,7 @@ const HeaderArea: React.FC = () => {
                 <div className="col-lg-3">
                   <div className="logo">
                     <Link className="navbar-brand" to="/">
-                      <img src="/assets/img/logo.png" alt="" />
+                      <img src="/assets/img/logo.png" alt="Logo Parol " />
                     </Link>
                   </div>
                 </div>
@@ -59,61 +59,26 @@ const HeaderArea: React.FC = () => {
                               className={`nav-link ${
                                 activeMenu === "home" ? "active" : ""
                               }`}
-                              href="#"
+                              href="/"
                             >
-                              Home
+                              Strona Główna
                               <span className="sub-nav-toggler"> </span>
                             </a>
-                            <ul className="sub-menu">
-                              <li>
-                                <Link to="/">Home Page 01</Link>
-                              </li>
-                              <li>
-                                <Link to="/index-2">Home Page 02</Link>
-                              </li>
-                            </ul>
+                           
                           </li>
 
                           <li className="nav-item">
                             <a
-                              onMouseEnter={() => setActiveMenu("pages")}
+                              onMouseEnter={() => setActiveMenu("blogs")}
                               className={`nav-link ${
-                                activeMenu === "pages" ? "active" : ""
+                                activeMenu === "blogs" ? "active" : ""
                               }`}
                               href="#"
                             >
-                              Pages
+                              O nas
                               <span className="sub-nav-toggler"> </span>
                             </a>
-                            <ul className="sub-menu">
-                              <li>
-                                <Link to="/about">About</Link>
-                              </li>
-                              <li>
-                                <Link to="/services">Services</Link>
-                              </li>
-                              <li>
-                                <Link to="/team">Team</Link>
-                              </li>
-                              <li>
-                                <Link to="/faq">FAQs</Link>
-                              </li>
-                              <li>
-                                <Link to="/pricing">Pricing</Link>
-                              </li>
-                            </ul>
-                          </li>
-
-                          <li className="nav-item smooth-menu">
-                            <Link
-                              to="/services"
-                              onMouseEnter={() => setActiveMenu("services")}
-                              className={`nav-link ${
-                                activeMenu === "services" ? "active" : ""
-                              }`}
-                            >
-                              Services
-                            </Link>
+                
                           </li>
 
                           <li className="nav-item">
@@ -124,7 +89,7 @@ const HeaderArea: React.FC = () => {
                               }`}
                               href="#"
                             >
-                              Projects
+                              Usługi
                               <span className="sub-nav-toggler"> </span>
                             </a>
                             <ul className="sub-menu">
@@ -136,27 +101,21 @@ const HeaderArea: React.FC = () => {
                               </li>
                             </ul>
                           </li>
-
-                          <li className="nav-item">
-                            <a
-                              onMouseEnter={() => setActiveMenu("blogs")}
+                          <li className="nav-item smooth-menu">
+                            <Link
+                              to="/services"
+                              onMouseEnter={() => setActiveMenu("services")}
                               className={`nav-link ${
-                                activeMenu === "blogs" ? "active" : ""
+                                activeMenu === "services" ? "active" : ""
                               }`}
-                              href="#"
                             >
-                              Blogs
-                              <span className="sub-nav-toggler"> </span>
-                            </a>
-                            <ul className="sub-menu">
-                              <li>
-                                <Link to="/blogs">Blogs</Link>
-                              </li>
-                              <li>
-                                <Link to="/blog/b1">Blog Details</Link>
-                              </li>
-                            </ul>
+                              Wypożyczalnia sprzętu
+                            </Link>
                           </li>
+
+                         
+
+                          
 
                           <li className="nav-item smooth-menu">
                             <Link
@@ -166,7 +125,7 @@ const HeaderArea: React.FC = () => {
                                 activeMenu === "contact" ? "active" : ""
                               }`}
                             >
-                              Contact
+                              Kontakt
                             </Link>
                           </li>
                         </ul>
