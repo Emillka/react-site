@@ -2,7 +2,7 @@
   "banner": [
     {
       "id": "b1",
-      "img": "/assets/img/slider/betoniarnia3.png",
+      "img": "/assets/img/slider/1a.jpeg",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
@@ -15,7 +15,72 @@
     },
     {
       "id": "b3",
-      "img": "/assets/img/slider/betoniarnia4.png",
+      "img": "/assets/img/slider/2a.jpeg",
+      "heading": "We provide best satisfied work",
+      "motive": {
+        "m1": "We turn vision",
+        "m2": "Factory Solutions"
+      },
+      "title": {
+        "t1": "Industrial Revolution, in modern history, the process of change from an agrarian",
+        "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
+      }
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/slider/3a.jpeg",
+      "heading": "We provide best satisfied work",
+      "motive": {
+        "m1": "We turn vision",
+        "m2": "Factory Solutions"
+      },
+      "title": {
+        "t1": "Industrial Revolution, in modern history, the process of change from an agrarian",
+        "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
+      }
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/slider/4a.jpeg",
+      "heading": "We provide best satisfied work",
+      "motive": {
+        "m1": "We turn vision",
+        "m2": "Factory Solutions"
+      },
+      "title": {
+        "t1": "Industrial Revolution, in modern history, the process of change from an agrarian",
+        "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
+      }
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/slider/5a.jpeg",
+      "heading": "We provide best satisfied work",
+      "motive": {
+        "m1": "We turn vision",
+        "m2": "Factory Solutions"
+      },
+      "title": {
+        "t1": "Industrial Revolution, in modern history, the process of change from an agrarian",
+        "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
+      }
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/slider/6a.jpeg",
+      "heading": "We provide best satisfied work",
+      "motive": {
+        "m1": "We turn vision",
+        "m2": "Factory Solutions"
+      },
+      "title": {
+        "t1": "Industrial Revolution, in modern history, the process of change from an agrarian",
+        "t2": "and handicraft economy to one dominated by industry and machine manufacturing."
+      }
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/slider/7a.jpeg",
       "heading": "We provide best satisfied work",
       "motive": {
         "m1": "We turn vision",
