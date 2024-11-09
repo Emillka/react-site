@@ -36,8 +36,8 @@ const Service1: React.FC = () => {
             </div>
             <div className="col-xl-6">
               <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-              </p>
+              W PAROL Zakład Usługowo-Remontowo-Budowlanym zajmujemy się kompleksową realizacją projektów budowlanych, zarówno dla klientów indywidualnych, jak i biznesowych. Nasza oferta obejmuje:
+            </p>
             </div>
             <div className="slide__navigation">
               <button className="slide__button-prev">

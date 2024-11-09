@@ -33,9 +33,9 @@ const Footer: React.FC = () => {
               <h5>Przydatne linki</h5>
               <ul>
                 <li>
-                  <Link to="/about">O nas</Link>
-                  <Link to="/services">Usługi</Link>
-                  <Link to="/projects">Wypożyczalnia sprzętu</Link>
+                  <Link to="/o-nas">O nas</Link>
+                  <Link to="/uslugi">Usługi</Link>
+                  <Link to="/wypozyczalnia-sprzetu">Wypożyczalnia sprzętu</Link>
                 </li>
               </ul>
             </div>

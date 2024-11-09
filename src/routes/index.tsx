@@ -29,12 +29,12 @@ export const router = createBrowserRouter([
         errorElement: <ErrorPage />,
       },
       {
-        path: "/contact",
+        path: "/kontakt",
         element: <Contact />,
         errorElement: <ErrorPage />,
       },
       {
-        path: "/about",
+        path: "/o-nas",
         element: <About />,
         errorElement: <ErrorPage />,
       },
@@ -44,12 +44,12 @@ export const router = createBrowserRouter([
         errorElement: <ErrorPage />,
       },
       {
-        path: "/pricing",
+        path: "/wypozyczalnia-sprzetu",
         element: <Pricing />,
         errorElement: <ErrorPage />,
       },
       {
-        path: "/services",
+        path: "/uslugi",
         element: <Services />,
         errorElement: <ErrorPage />,
       },

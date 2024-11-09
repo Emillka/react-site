@@ -22,7 +22,7 @@ const Card: React.FC<Props> = ({ service }) => {
           <h5>{service.heading}</h5>
           <p>{service.title}</p>
           <hr />
-          <Link to="/services" className="read-more">
+          <Link to="/uslugi" className="read-more">
             <i className="las la-arrow-right"></i>
           </Link>
         </div>

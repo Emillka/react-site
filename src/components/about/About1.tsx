@@ -11,7 +11,7 @@ const About1: React.FC = () => {
             data-wow-delay=".6s"
           >
             <div className="about-img">
-              <img src="/assets/img/about/about.png" alt="" />
+              <img src="/assets/img/about/specjalista.jpg" alt="" />
             </div>
           </div>
           <div
@@ -24,12 +24,12 @@ const About1: React.FC = () => {
                 <h2> Kilka słów o nas</h2>
               </div>
               <p className="highlight">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+              PAROL Zakład Usługowo-Remontowo-Budowlany Jerzy Parol to firma z Garwolina, która od 1995 roku realizuje szeroki zakres usług remontowo-budowlanych. Dzięki niemal 30-letniemu doświadczeniu oraz solidnej kadrze, oferujemy kompleksowe rozwiązania dostosowane do potrzeb naszych klientów.
               </p>
               <br />
             
               <div className="about-btn mt-40">
-                <Link to="/about" className="main-btn">
+                <Link to="/o-nas" className="main-btn">
                   Więcej
                 </Link>
               </div>

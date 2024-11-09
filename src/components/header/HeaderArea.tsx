@@ -26,7 +26,7 @@ const HeaderArea: React.FC = () => {
                 <div className="col-lg-3">
                   <div className="logo">
                     <Link className="navbar-brand" to="/">
-                      <img src="/assets/img/logo.png" alt="Logo Parol " />
+                      <img src="/assets/img/logoparol-ok.webp" alt="Logo Parol " />
                     </Link>
                   </div>
                 </div>
@@ -73,7 +73,7 @@ const HeaderArea: React.FC = () => {
                               className={`nav-link ${
                                 activeMenu === "blogs" ? "active" : ""
                               }`}
-                              href="#"
+                              href="/o-nas"
                             >
                               O nas
                               <span className="sub-nav-toggler"> </span>
@@ -87,39 +87,38 @@ const HeaderArea: React.FC = () => {
                               className={`nav-link ${
                                 activeMenu === "projects" ? "active" : ""
                               }`}
-                              href="#"
+                              href="/uslugi"
                             >
                               Usługi
                               <span className="sub-nav-toggler"> </span>
                             </a>
                             <ul className="sub-menu">
                               <li>
-                                <Link to="/projects">Projects</Link>
+                                <Link to="/projects">Produkcja betonu</Link>
                               </li>
                               <li>
-                                <Link to="/project/p1">Project Details</Link>
+                                <Link to="/project/p2">Roboty drogowe</Link>
+                              </li>
+                              <li>
+                                <Link to="/project/p3">Roboty ziemne</Link>
+                              </li>
+                              <li>
+                                <Link to="/project/p4">Roboty rozbiórkowe</Link>
+                              </li>
+                              <li>
+                                <Link to="/project/p5">Wypożyczalnia sprzętu i maszyn budowlanych</Link>
+                              </li>
+                              <li>
+                                <Link to="/project/p6">Sprzedaż materiałów</Link>
                               </li>
                             </ul>
                           </li>
+                        
+
+              
                           <li className="nav-item smooth-menu">
                             <Link
-                              to="/services"
-                              onMouseEnter={() => setActiveMenu("services")}
-                              className={`nav-link ${
-                                activeMenu === "services" ? "active" : ""
-                              }`}
-                            >
-                              Wypożyczalnia sprzętu
-                            </Link>
-                          </li>
-
-                         
-
-                          
-
-                          <li className="nav-item smooth-menu">
-                            <Link
-                              to="/contact"
+                              to="/kontakt"
                               onMouseEnter={() => setActiveMenu("contact")}
                               className={`nav-link ${
                                 activeMenu === "contact" ? "active" : ""

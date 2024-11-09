@@ -12,9 +12,9 @@ const About2: React.FC = () => {
               data-wow-delay=".3s"
             >
               <div className="info-img">
-                <img src="/assets/img/about/about-1.png" alt="" />
+                <img src="/assets/img/about/about.jpg" alt="" />
                 <div className="founded-year">
-                  <i className="flaticon-factory">Founded in 1995</i>
+                  <i className="flaticon-factory">Działamy od 1995 roku</i>
                 </div>
               </div>
             </div>
@@ -26,41 +26,30 @@ const About2: React.FC = () => {
                 <div className="section-title">
                   <h6>O nas</h6>
                   <h2>
-                    We're leading <b>Industrial Solution</b> in Worldwide
+                    Firma <b>z ponad 25-letnią </b> historią
                   </h2>
                 </div>
 
                 <p>
-                  We are build construction site lorem ipsum dolor sit amet,
-                  consectetur elit. Ea enim et, similique,minus soluta ducimus.
-                  The Most Eminent factory and Industrial Consultant service
-                  provider. Branches in USA and overseas.
+                Naszą misją jest dostarczanie najwyższej jakości usług, które spełniają oczekiwania nawet najbardziej wymagających klientów. Dzięki zaangażowaniu, precyzji i nowoczesnemu podejściu, jesteśmy w stanie sprostać każdemu wyzwaniu w branży budowlanej. 
                 </p>
                 <br />
-
-                <p>
-                  industrify is famous construction factory to build a company
-                  that can compete with large construction firms while operating
-                  with the flexibility and customer-focus of a small, family-run
-                  business.
-                </p>
-
                 <ul className="about-key mt-30">
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Best Industrial</p>
+                    <p>Solidność</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Quality Construction</p>
+                    <p>Precyzja</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Expert Contractor</p>
+                    <p>Doświadczenie</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Affordable Cost Rate</p>
+                    <p>Zaufanie</p>
                   </li>
                 </ul>
                 <div className="about-contact">
@@ -72,15 +61,10 @@ const About2: React.FC = () => {
                             <i className="las la-phone"></i>
                           </div>
                           <div className="mobile-number">
-                            <h5>Call Us Anytime</h5>
-                            <p>92 666 888 0000</p>
+                            <h5>Skontaktuj się z nami</h5>
+                            <p>+48 111-111-111</p>
                           </div>
                         </div>
-                      </div>
-                      <div className="col-lg-6 col-md-6">
-                        <Link to="/about" className="main-btn">
-                          Learn More
-                        </Link>
                       </div>
                     </div>
                   </div>

@@ -2,20 +2,17 @@
   "promo": [
     {
       "id": "p1",
-      "heading": "Roboty drogowe oraz ziemne",
-      "title": "Bla bla",
+      "heading": "Produkcja betonu i sprzedaż kruszyw",
       "icon": "flaticon-factory"
     },
     {
       "id": "p2",
-      "heading": "Budowa mostów i tuneli",
-      "title": "Bla bla.",
+      "heading": "Roboty drogowe, ziemne oraz budowlane",
       "icon": "flaticon-cogwheel"
     },
     {
       "id": "p3",
-      "heading": "Wypożyczenie sprzętu",
-      "title": "Bla bla.",
+      "heading": "Wypożyczalnia maszyn i sprzętu budowlanego",
       "icon": "flaticon-maintenance"
     }
   ]

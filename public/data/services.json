@@ -4,43 +4,36 @@
       "id": "s1",
       "img": "/assets/img/service/1.jpg",
       "icon": "flaticon-oil-industry",
-      "heading": "Roboty drogowe",
-      "title": "Budową dróg i autostrad"
+      "heading": "Budowę budynków",
+      "title": "Zobacz więcej"
     },
     {
       "id": "s2",
       "img": "/assets/img/service/2.jpg",
       "icon": "flaticon-lab-tool",
-      "heading": "Roboty ziemne",
-      "title": "Głównie wykopy i nasypy"
+      "heading": "Roboty drogowe ",
+      "title": "Zobacz więcej"
     },
     {
       "id": "s3",
       "img": "/assets/img/service/3.jpg",
       "icon": "flaticon-eco-factory",
-      "heading": "Budowa mostów i tuneli",
-      "title": "Tu coś dodać"
+      "heading": "Roboty ziemne",
+      "title": "Zobacz więcej"
     },
     {
       "id": "s4",
       "img": "/assets/img/service/4.jpg",
       "icon": "flaticon-production",
-      "heading": "Roboty budowlane",
-      "title": "Wznoszenie budynków mieszkalnych i niemieszkalnych"
+      "heading": "Rozbiórki i wyburzenia",
+      "title": "Zobacz więcej"
     },
     {
       "id": "s5",
       "img": "/assets/img/service/5.jpg",
       "icon": "flaticon-crane",
-      "heading": "Wypożyczanie sprzętu ",
-      "title": "Tu coś dodać"
-    },
-    {
-      "id": "s6",
-      "img": "/assets/img/service/6.jpg",
-      "icon": "flaticon-drilling-machine",
-      "heading": "Rozbiórka i wyburzenia obiektów budowlanych",
-      "title": "Tu coś dodać"
+      "heading": "Wynajem sprzętu budowlanego ",
+      "title": "Zobacz więcej"
     }
   ]
 }

@@ -30,7 +30,7 @@
         {
           "id": "p2",
           "text": "Services",
-          "link": "/services"
+          "link": "/uslugi"
         },
         {
           "id": "p3",
@@ -52,7 +52,7 @@
     {
       "id": "m3",
       "text": "O nas",
-      "link": "#",
+      "link": "/o-nas",
       "dropdown": []
     },
     {
@@ -62,7 +62,7 @@
       "dropdown": [
         {
           "id": "c1",
-          "text": "Projects",
+          "text": "Produkcja betonu",
           "link": "/projects"
         },
         {
@@ -92,7 +92,7 @@
     {
       "id": "m6",
       "text": "Kontakt",
-      "link": "/contact",
+      "link": "/kontakt",
       "dropdown": []
     }
   ]

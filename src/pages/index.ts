@@ -8,5 +8,5 @@ export { default as FAQ } from "./FAQ";
 export { default as Pricing } from "./Pricing";
 export { default as Projects } from "./Projects";
 export { default as ProjectDetails } from "./ProjectDetails";
-export { default as Services } from "./Services";
+export { default as Services } from "./services";
 export { default as Team } from "./Team";

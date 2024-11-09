@@ -9,7 +9,6 @@ import {
   Experience,
   Team1,
   Testimonial2,
-  Blog1,
 } from "../components";
 
 const Home2: React.FC = () => {
@@ -24,7 +23,6 @@ const Home2: React.FC = () => {
       <Experience />
       <Team1 type={false} />
       <Testimonial2 />
-      <Blog1 type={false} />
     </React.Fragment>
   );
 };
